@@ -3,6 +3,7 @@
 
 ![Screenshot](screenshot.png)
 ![Screenshot](screenshot2.png)
+
 ```if (x >= 4){
                 y = 12 * (x/((a * a * a) - b));
             }
