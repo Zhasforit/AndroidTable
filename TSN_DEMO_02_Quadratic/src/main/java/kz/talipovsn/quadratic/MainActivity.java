@@ -57,7 +57,6 @@ public class MainActivity extends AppCompatActivity {
             return;
         }
 
-        // Расчет значений x1 и x2
         try {
             if (x >= 4){
                 y = 12 * (x/((a * a * a) - b));
